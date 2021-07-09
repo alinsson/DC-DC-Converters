@@ -1,6 +1,6 @@
 # DC-DC-Converters
 
-This project describes DC-DC Converters Buck, Boost, Busck-Boost. Control, modeling, feedback and compensation are covered. Design of converters with report in pt-br, Matchcad, Proteus and Psim. 
+This project describes DC-DC Converters Buck, Boost, Busck-Boost. Control, modeling, feedback and compensation are covered. Design of converters with report in pt-br. Matchcad for calcules, Proteus and Psim for simulation. 
 
 ![image](https://user-images.githubusercontent.com/6897439/125125771-7a9f1f00-e0d0-11eb-9cac-384ae0da0497.png)
 
